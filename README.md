@@ -1,4 +1,4 @@
-repository.SportsDevil
+repository.SportsHQ
 ======================
 
-Unofficial SportsDevil Repository
+Official SportsHQ Repository

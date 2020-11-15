@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon
-  id="plugin.video.SportsDevil"
-  version="1.8.6"
-  name="SportsDevil"
-  provider-name="MaxMustermann">
+  id="plugin.video.SportsHQ"
+  version="1.0.0"
+  name="SportsHQ"
+  provider-name="XcaliBuild">
   <requires>
    <import addon="xbmc.python" version="2.1.0"/>
    <import addon="script.common.plugin.cache" version="0.9.1"/>
@@ -20,15 +20,15 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="repository.SportsDevil" name="SportsDevil repository" version="1.0.0" provider-name="Al101">
-	<extension point="xbmc.addon.repository" name="SportsDevil add-on repository">
+<addon id="repository.SportsHQ" name="SportsHQ repository" version="1.0.0" provider-name="XcaliBuild">
+	<extension point="xbmc.addon.repository" name="SportsHQ add-on repository">
 		<info compressed="false">http://github.com/al101/repository.SportsDevil/raw/master/addons.xml</info>
 		<checksum>http://github.com/al101/repository.SportsDevil/raw/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://github.com/al101/repository.SportsDevil/raw/master/repository</.datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Install Unofficial SportsDevil add-on</summary>
-		<description>Created by MaxMustermann maintained by XBMCHUB.COM community (enen92, jorges4lu2)</description>
+		<summary>Install Official SportsHQ add-on</summary>
+		<description>Created by XcaliBuild</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
